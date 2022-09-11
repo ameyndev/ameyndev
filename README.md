@@ -1,8 +1,6 @@
 # Hi there 👋. I am Amey.
 
-I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey.
-
-🐱‍🏍
+I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey. 🐱‍🏍
 
 <!--
 **ameyndev/ameyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
