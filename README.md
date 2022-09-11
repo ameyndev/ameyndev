@@ -2,6 +2,11 @@
 
 I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey. 🐱‍🏍
 
+## Skills
+* ☕ Java
+* 🖥 HTML, CSS
+* 🖋 Figma
+
 <!--
 **ameyndev/ameyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
