@@ -1,4 +1,4 @@
-#Amey Nalawade.
+# Amey Nalawade.
 
 I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey. 👨‍💻
 
