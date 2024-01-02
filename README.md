@@ -1,4 +1,4 @@
-# Hi there 👋. I am Amey.
+#Amey Nalawade.
 
 I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey. 👨‍💻
 
@@ -8,6 +8,15 @@ I like designing and creating new stuff. I really enjoy learning new languages a
 * 🖥 HTML, CSS
 * 🖋 Figma
 
+**Contact Information**
+- 𝕏 : [ameyndev](https://twitter.com/ameyndev)
+- IG : [ameyndev](https://instagram.com/ameyndev)
+
+**Projects**
+- Coming soon...
+
+**Sponsor**
+- Coming soon...
 <!--
 **ameyndev/ameyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
