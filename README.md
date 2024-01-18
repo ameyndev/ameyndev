@@ -4,6 +4,7 @@ I like designing and creating new stuff. I really enjoy learning new languages a
 
 ## Skills
 * ☕ Java
+* 🟨 JavaScript
 * 🎯 Flutter
 * 🖥 HTML, CSS
 * 🖋 Figma
