@@ -13,11 +13,15 @@ I like designing and creating new stuff. I really enjoy learning new languages a
 - 𝕏 : [ameyndev](https://twitter.com/ameyndev)
 - IG : [ameyndev](https://instagram.com/ameyndev)
 
+<!---
 **Projects**
 - Coming soon...
 
 **Sponsor**
 - Coming soon...
+
+-->
+
 <!--
 **ameyndev/ameyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
