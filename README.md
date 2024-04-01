@@ -3,10 +3,10 @@
 I like designing and creating new stuff. I really enjoy learning new languages and framework, and I want to learn more as I progress through my development and design journey. 👨‍💻
 
 ## Skills
-* ☕ Java
 * 🟨 JavaScript
-* 🎯 Flutter
 * 🖥 HTML, CSS
+* ☕ Java
+* 🎯 Flutter
 * 🖋 Figma
 
 **Contact Information**
