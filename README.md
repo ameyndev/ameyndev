@@ -11,7 +11,7 @@ I like designing and creating new stuff. I really enjoy learning new languages a
 
 **Contact Information**
 - 𝕏 : [ameyndev](https://twitter.com/ameyndev)
-- IG : [ameyndev](https://instagram.com/ameyndev)
+- IG : [a.mey.xo](https://instagram.com/ameyndev)
 
 <!---
 **Projects**
